@@ -1,0 +1,2 @@
+简单的freemarker demo
+使用servlet写的
