@@ -1,2 +1,1 @@
-简单的freemarker demo
-使用servlet写的
+easy freemarker demo，use servlet，no springmvc
